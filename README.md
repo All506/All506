@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a young programmer who’s aiming to grow as a professional in both, software development and cybersecurity, though I already started as I'm close to graduate as B.s Business Informatics.<br>🌱 I’m currently learning front and back-end frameworks, like Django, Vue.js and React. Ocasionally, I try learning technologies related with mobile development<br>💬 You can always contact me at allcincoceroseis@gmail.com
+🔭 I am a young programmer who’s aiming to grow as a professional in both, software development and cybersecurity, though I already started as I'm close to graduate as B.s Business Informatics.<br>🌱 I’m currently learning front and back-end frameworks, like Django, Vue.js and React. Ocasionally, I try learning technologies related with mobile development<br>💬 You can always contact me at allantrejos@icloud.com
 
 
 ## 🌐 Socials:
