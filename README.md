@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I am a young programmer (B.s Business Informatics) who’s aiming to grow as a professional in both, software development and cybersecurity.<br>🌱 I’m currently learning front and back-end frameworks, like Django, Vue.js and React. Ocasionally, I try learning technologies related with mobile development<br>💬 You can always contact me at allantrejos@icloud.com
 
-❗️❗️❗️ Currently involved in a project 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonosoyallan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/all%C3%A1n-trejos-salazar-2ba58525a/) 
